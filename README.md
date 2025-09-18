@@ -45,9 +45,9 @@ Welcome — this is my GitHub profile where I share projects combining **Data Sc
 ---
 
 ## 📫 Connect with me
-- 🔗 LinkedIn: [linkedin.com/in/oussama-sghair](https://linkedin.com/in/oussama-sghair)  
+- 🔗 LinkedIn: [linkedin.com/in/oussama-sghir1](https://linkedin.com/in/oussama-sghir1)  
 - 🐙 GitHub: [github.com/oussama12358](https://github.com/oussama12358)  
-- ✉️ Email: your.email@example.com  
+- ✉️ Email: oussama.sghir@polytechnicien.tn
 
 ---
 
