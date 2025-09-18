@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oussama Sghair  
+# 👋 Hi, I'm Oussama Sghir  
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen) 
 ![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey) 
