@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Oussama Sghair  
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue) 
+![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen) 
+![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey) 
+![MIT License](https://img.shields.io/badge/License-MIT-green)  
 
-<!--
-**oussama12358/oussama12358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI Engineering Student** | 💡 Passionate about Data & AI Solutions  
 
-Here are some ideas to get you started:
+Welcome — this is my GitHub profile where I share projects combining **Data Science**, **Machine Learning**, and **Web Development**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+- **Dashboards & Automation** — Streamlit prototypes for data visualization and reporting.  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL  
+- **AI & Data:** Pandas, NumPy, Scikit-learn (learning)  
+- **Web & UI:** Streamlit, Flask (basics), HTML, CSS, JavaScript  
+- **DB & Infra:** SQLite  
+- **Tools:** Git, GitHub, VS Code, cursor 
+
+---
+
+## 📌 Featured Repositories (Pinned)
+1. **Data Analysis Report Generator** — Streamlit tool to analyze datasets and generate professional PDF reports.  
+
+*(More projects will be added soon as I keep learning and building 👨‍💻)*  
+
+---
+
+## 📂 How I organize projects
+- projects/ → Completed projects with polished READMEs.  
+- demos/ → Small experiments and prototypes.  
+- notebooks/ → Research or exploratory notebooks.  
+
+---
+
+## 📈 Why check my work?
+- I focus on turning data & code into **usable tools** (dashboards, reports, automation).  
+- I care about reproducibility: clear READMEs, requirements.txt, and run instructions.  
+
+---
+
+## 📫 Connect with me
+- 🔗 LinkedIn: [linkedin.com/in/oussama-sghair](https://linkedin.com/in/oussama-sghair)  
+- 🐙 GitHub: [github.com/oussama12358](https://github.com/oussama12358)  
+- ✉️ Email: your.email@example.com  
+
+---
+
+⭐️ Feel free to explore my repos, open issues, or reach out for collaboration — I’m always happy to connect and learn!  
