@@ -1,54 +1,39 @@
-# Hi, I'm Oussama Sghir  
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue) 
-![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen) 
-![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey) 
-![MIT License](https://img.shields.io/badge/License-MIT-green)  
+# Hi, I'm Oussama Sghir 
 
-🎓 **AI Engineering Student** | 💡 Passionate about Data & AI Solutions  
+🎓 AI Engineering Student | 💡 Passionate about Data & AI | Python, ML & Web Dev  
 
-Welcome — this is my GitHub profile where I share projects combining **Data Science**, **Machine Learning**, and **Web Development**.  
+Welcome! I build **Data & AI solutions**, from ML models to dashboards and interactive apps.
 
 ---
 
-## 🚀 Current Focus
-- **Dashboards & Automation** — Streamlit prototypes for data visualization and reporting.  
+##  Featured Projects
+
+### **Predictive Maintenance System**
+Predicts machine failures within 7 days from real-time sensor data.  
+![Demo](https://raw.githubusercontent.com/oussama12358/predictive-maintenance/main/assets/demo.gif)  
+**Tech:** Python, XGBoost, FastAPI, Streamlit, Docker  
+[Repo](https://github.com/oussama12358/predictive-maintenance)
+
+### **Data Analysis Report Generator**
+Analyze datasets and generate professional PDF reports.  
+**Tech:** Python, Pandas, Streamlit, ReportLab  
+[Repo](https://github.com/oussama12358/data-analysis-report-generator)
+
+*(More projects coming soon! )*
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL  
-- **AI & Data:** Pandas, NumPy, Scikit-learn (learning)  
-- **Web & UI:** Streamlit, Flask (basics), HTML, CSS, JavaScript  
-- **DB & Infra:** SQLite  
-- **Tools:** Git, GitHub, VS Code, cursor 
+## 🛠️ Skills & Tech
+- **Languages:** Python, SQL, JavaScript  
+- **ML & Data:** Pandas, NumPy, Scikit-learn, ML pipelines  
+- **Web & UI:** Streamlit, Flask, HTML/CSS/JS  
+- **Database & Tools:** SQLite, Git, GitHub, VS Code  
 
 ---
 
-## 📌 Featured Repositories (Pinned)
-1. **Data Analysis Report Generator** — Streamlit tool to analyze datasets and generate professional PDF reports.  
+## 📫 Connect
+-  LinkedIn: [linkedin.com/in/oussama-sghir1](https://linkedin.com/in/oussama-sghir1)  
+-  GitHub: [github.com/oussama12358](https://github.com/oussama12358)  
+-  Email: oussama.sghir@polytechnicien.tn  
 
-*(More projects will be added soon as I keep learning and building 👨‍💻)*  
-
----
-
-## 📂 How I organize projects
-- projects/ → Completed projects with polished READMEs.  
-- demos/ → Small experiments and prototypes.  
-- notebooks/ → Research or exploratory notebooks.  
-
----
-
-## 📈 Why check my work?
-- I focus on turning data & code into **usable tools** (dashboards, reports, automation).  
-- I care about reproducibility: clear READMEs, requirements.txt, and run instructions.  
-
----
-
-## 📫 Connect with me
-- 🔗 LinkedIn: [linkedin.com/in/oussama-sghir1](https://linkedin.com/in/oussama-sghir1)  
-- 🐙 GitHub: [github.com/oussama12358](https://github.com/oussama12358)  
-- ✉️ Email: oussama.sghir@polytechnicien.tn
-
----
-
-⭐️ Feel free to explore my repos, open issues, or reach out for collaboration — I’m always happy to connect and learn!  
+⭐ Explore my repos, open issues, or reach out — always happy to connect & collaborate!
