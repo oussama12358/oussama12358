@@ -47,7 +47,7 @@ A smart system that analyzes datasets and automatically generates professional r
 
 ---
 
-### 🧠 Satellite / Computer Vision Project (New)
+### 🧠 Satellite / Computer Vision Project 
 Satellite image analysis project for object detection / defect detection (ongoing improvement).
 
 **Focus:**
