@@ -6,7 +6,7 @@
 
 ---
 
-##  About Me
+## 🔥 About Me
 
 I’m an AI engineering student focused on building practical, production-oriented AI systems.  
 I enjoy turning data into intelligent applications using Machine Learning, Deep Learning, and full-stack development tools.
@@ -18,9 +18,9 @@ Currently, I’m expanding my expertise in:
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-###  Predictive Maintenance System (End-to-End AI)
+### 🛠️ Predictive Maintenance System (End-to-End AI)
 Predicts machine failures within 7 days using real-time sensor data.
 
 **What I built:**
@@ -34,7 +34,7 @@ Predicts machine failures within 7 days using real-time sensor data.
 
 ---
 
-###  AI Data Analytics & Report Generator
+### 📊 AI Data Analytics & Report Generator
 A smart system that analyzes datasets and automatically generates professional reports.
 
 **What I built:**
@@ -47,7 +47,7 @@ A smart system that analyzes datasets and automatically generates professional r
 
 ---
 
-###  Satellite / Computer Vision Project (New)
+### 🧠 Satellite / Computer Vision Project (New)
 Satellite image analysis project for object detection / defect detection (ongoing improvement).
 
 **Focus:**
@@ -59,7 +59,7 @@ Satellite image analysis project for object detection / defect detection (ongoin
 
 ---
 
-##  Skills & Technologies
+## 🧠 Skills & Technologies
 
 **Languages:** Python, SQL, JavaScript  
 **Machine Learning:** Scikit-learn, XGBoost, Pandas, NumPy  
@@ -70,7 +70,7 @@ Satellite image analysis project for object detection / defect detection (ongoin
 
 ---
 
-##  What I’ve Improved Recently
+## 📈 What I’ve Improved Recently
 
 - Built full **end-to-end ML systems (not just notebooks)**
 - Learned **deployment (FastAPI + Docker)**
@@ -79,7 +79,7 @@ Satellite image analysis project for object detection / defect detection (ongoin
 
 ---
 
-##  Connect With Me
+## 📫 Connect With Me
 
 - 🔗 LinkedIn: linkedin.com/in/oussama-sghir1  
 - 💻 GitHub: github.com/oussama12358  
@@ -87,4 +87,4 @@ Satellite image analysis project for object detection / defect detection (ongoin
 
 ---
 
- Feel free to explore my repositories, open issues, or reach out for collaboration!
+⭐ Feel free to explore my repositories, open issues, or reach out for collaboration!
